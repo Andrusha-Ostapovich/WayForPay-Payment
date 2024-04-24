@@ -8,7 +8,7 @@
     "license": "MTC",
     "autoload": {
         "psr-4": {
-            "Ostapovich": "src/"
+            "Ostapovich\\": "src/"
         }
     },
     "authors": [
