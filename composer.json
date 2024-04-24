@@ -17,5 +17,7 @@
             "email": "andrii.ostapovich@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.1"
+    }
 }
