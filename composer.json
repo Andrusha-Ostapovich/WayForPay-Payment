@@ -1,0 +1,21 @@
+{
+    "name": "ostapovich/wayforpay",
+    "description": "Way for pay payment",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    },
+    "license": "MTC",
+    "autoload": {
+        "psr-4": {
+            "Ostapovich": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrii",
+            "email": "andrii.ostapovich@gmail.com"
+        }
+    ],
+    "require": {}
+}
