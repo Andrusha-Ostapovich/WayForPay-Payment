@@ -27,7 +27,7 @@ $webhookUrl = 'https://your-domain.com/webhook-url'; // URL для отрима�
 $orderName = 'Замовлення'; // Назва замовлення
 $response = $wayForPay->pay($orderNumber, $amount, $currencyCode, $returnUrl, $webhookUrl, $orderName);
 
-dd($responce);
+echo ($responce);
 
 ```
 
